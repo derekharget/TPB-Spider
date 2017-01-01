@@ -1,1 +1,9 @@
-TPB Archiving Spider
+<h2>TPB Archiving</h2>
+
+<h3>What is it</h3>
+
+This tool is used for archiving The Pirate Bay, a popular torrent site, in a MySQL DB.
+
+Usage:
+
+php spider.php
