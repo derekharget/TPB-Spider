@@ -1,3 +1,15 @@
 <?php
-    phpinfo();
+require(bencode.php);
+require(class.spider.php);
+
+
+
+    while(){
+    	
+		
+		
+		
+		
+		
+    }
 ?>
